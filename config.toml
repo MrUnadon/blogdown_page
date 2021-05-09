@@ -29,6 +29,6 @@ profilePicture = "images/profile.jpg"
 copyright = "2020-2021"
 
 # contact setteing
-#[params]
+[params]
 contactFormAction = "https://formspree.io/f/whitesnow1751@gmail.com"
 

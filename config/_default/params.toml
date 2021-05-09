@@ -26,6 +26,9 @@ listDateFormat = "2/1/2006"
 # readMore = true
 # postSectionName = "blog"
 
+# contact setteing
+[params]
+contactFormAction = "https://formspree.io/f/whitesnow1751@gmail.com"
 
 
 [simpleAnalytics]
