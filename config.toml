@@ -7,6 +7,7 @@ summarylength = 10
 enableEmoji = true
 enableRobotsTXT = true
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+publishDir = "docs"
 
 
 # Enable Disqus

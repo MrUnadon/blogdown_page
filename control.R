@@ -40,7 +40,7 @@ build_site()
 # Memo
 # 1. themeの文字をいじるときは configフォルダのtomlを編集
 # 2. profile写真などは、staticのimagesフォルダをいじる。build site するとpublicに転写
-
+# Fin. Build_site()した後に、publicのなかのdocsのindex.htmlを、root/docs/にコピーし直さないといけない 
 
 
 
