@@ -2,14 +2,16 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <sitemap>
-    <loc>https://mrunadon.github.io/blogdown_page/en/sitemap.xml</loc>
+    <loc>/blogdown_page/en/sitemap.xml</loc>
     
       <lastmod>2021-03-13T21:47:41+00:00</lastmod>
     
   </sitemap>
   
   <sitemap>
-    <loc>https://mrunadon.github.io/blogdown_page/ar/sitemap.xml</loc>
+    <loc>/blogdown_page/ar/sitemap.xml</loc>
+    
+      <lastmod>2021-05-10T00:00:00+00:00</lastmod>
     
   </sitemap>
   
