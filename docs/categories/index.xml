@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on テスト作成中</title>
-    <link>/blogdown_page/categories/</link>
+    <link>https://mrunadon.github.io/blogdown_page/categories/</link>
     <description>Recent content in Categories on テスト作成中</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>2020-2021</copyright>
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="/blogdown_page/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://mrunadon.github.io/blogdown_page/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>syntax</title>
-      <link>/blogdown_page/categories/syntax/</link>
+      <link>https://mrunadon.github.io/blogdown_page/categories/syntax/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>/blogdown_page/categories/syntax/</guid>
+      <guid>https://mrunadon.github.io/blogdown_page/categories/syntax/</guid>
       <description></description>
     </item>
     
     <item>
       <title>themes</title>
-      <link>/blogdown_page/categories/themes/</link>
+      <link>https://mrunadon.github.io/blogdown_page/categories/themes/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>/blogdown_page/categories/themes/</guid>
+      <guid>https://mrunadon.github.io/blogdown_page/categories/themes/</guid>
       <description></description>
     </item>
     
