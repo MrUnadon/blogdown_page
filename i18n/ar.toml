@@ -1,0 +1,39 @@
+[category]
+other = "Category"
+
+[tag]
+other = "Tag"
+
+[reading_time]
+one = "First time"
+two = "Second times"
+other = "{{ .Count }} times"
+
+[page_not_found]
+other = "Page not found"
+
+[page_does_not_exist]
+other = "Page doesn't exist"
+
+[head_back]
+other = "Head back <a href=\"{{ . }}\">Head back</a>."
+
+[comments]
+other = "Comments"
+
+[send]
+other = "Send"
+
+[read_more]
+other = "Read More"
+
+[name]
+other = "Name"
+
+[email]
+other = "e-mail"
+
+[message]
+other = "other" 
+
+

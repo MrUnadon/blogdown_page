@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Jiro Sakamoto</title>
+    <link>/ar/post/</link>
+    <description>Recent content in Posts on Jiro Sakamoto</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>2020-2021</copyright>
+    <lastBuildDate>Mon, 10 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="/ar/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Research Information</title>
+      <link>/ar/post/arabic_example/</link>
+      <pubDate>Mon, 10 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/ar/post/arabic_example/</guid>
+      <description>Updated at 2021/05/10
+ International Conference  Jiro Sakamoto, ○Kota Takaoka, Daiki Hojo, Emiho Hashimoto, &amp;amp; Yui Furukawa.</description>
+    </item>
+    
+  </channel>
+</rss>
