@@ -28,7 +28,7 @@ _merge = "none"
   # use [params.contact.email] instead.
   #email = "john.doe@example.com"
   description = "Landing Page"
-  bio = "Bayesian statistical modeling, research design, Patent technology development, psychology, child walfare, machine learning, AI ethics.\n\n[Child safety assessment](https://staff.aist.go.jp/kota.takaoka/Ai%20for%20better%20society_files/pdf/2020project20-guide.pdf) \n\n[Prevention of child sexual abuse](https://staff.aist.go.jp/kota.takaoka/Ai%20for%20better%20society_files/pdf/2021project17-booklet.pdf)\n\n [Maternal and child health for safe parenting](https://staff.aist.go.jp/kota.takaoka/Ai%20for%20better%20society_files/pdf/2021project33-guide.pdf)"
+  bio = "Bayesian statistical modeling, research design, patent technology development, psychology, child walfare, machine learning, AI ethics.\n\n[Child safety assessment](https://staff.aist.go.jp/kota.takaoka/Ai%20for%20better%20society_files/pdf/2020project20-guide.pdf) \n\n[Prevention of child sexual abuse](https://staff.aist.go.jp/kota.takaoka/Ai%20for%20better%20society_files/pdf/2021project17-booklet.pdf)\n\n [Maternal and child health for safe parenting](https://staff.aist.go.jp/kota.takaoka/Ai%20for%20better%20society_files/pdf/2021project33-guide.pdf)"
   avatar = "img/avatar.jpg"
   favicon = "img/avatar.jpg"
   error404 = "There is no such page."
