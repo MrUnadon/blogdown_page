@@ -1,4 +1,5 @@
 baseURL = "https://mrunadon.github.io/blogdown_page/"
+publishDir = "docs"
 # include content marked as draft
 buildDrafts = false
 # include content with publishdate in the future
